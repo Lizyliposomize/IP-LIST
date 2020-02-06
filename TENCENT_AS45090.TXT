@@ -1,5 +1,4 @@
-﻿"45090","CNNIC-TENCENT-NET-AP Shenzhen Tencent Computer Systems Company Limited, CN"
-118.24.84.0/22
+﻿118.24.84.0/22
 182.254.50.0/23
 118.126.86.0/23
 118.89.180.0/23
